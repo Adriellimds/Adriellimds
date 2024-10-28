@@ -18,7 +18,7 @@
 
 Se você deseja discutir ideias, colaborar em projetos ou simplesmente se conectar:
 
-<div style="display: flex; flex-wrap: wrap; gap: 1 rem; margin-bottom: 1 rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 20 px; margin-bottom: 20 px;">
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrielli-silva-ba67339b/)
 
@@ -30,7 +30,7 @@ Se você deseja discutir ideias, colaborar em projetos ou simplesmente se conect
 
 ## Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 1 rem; margin-bottom: 1 rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 20 px; margin-bottom: 20 px;">
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
